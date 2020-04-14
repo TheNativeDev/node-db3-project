@@ -16,7 +16,7 @@ For this lab you will
 
 ### Multi Table Queries
 
-Use a graphical tool like `SQLite Studio` to open `./data/northwind.db3` and execute the following queries:
+Use a graphical tool like `SQLite Studio` to open `./data/northwind.db3` and execute the following queries:  
 
 -   Display the ProductName and CategoryName for all products in the database. Returns 77 records.
 -   Display the order Id and shipper CompanyName for all orders placed before August 9 2012. Returns 429 records.
