@@ -2,10 +2,10 @@
 
 ## Topics
 
--   Joins
--   Database Queries
--   Knex Queries
--   Modular Code
+-  Joins
+-  Database Queries
+-  Knex Queries
+-  Modular Code
 
 ## Assignment
 
